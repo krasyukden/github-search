@@ -1,0 +1,44 @@
+.repoWrapper{
+  width: 510px;
+  border-radius: 5px;
+  background-color: #ad70e7;
+  margin: 5px;
+  padding: 10px;
+}
+.repoWrapper div{
+  padding-top: 5px;
+}
+.repoName{
+  font-size: 20px;
+  font-weight: bold;  
+}
+.buttonAdd{
+  margin: 10px 5px;
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  border-color: white;
+  color: white;
+  background-color: #673ab7;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer; 
+}
+.buttonRemove{
+  margin: 10px 5px;
+  width: 100px;
+  height: 35px;
+  border-radius: 5px;
+  border-color: white;
+  color: white;
+  background-color: #e91e6370;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;   
+}
+.buttonAdd:hover{
+  background-color: #2d1850;
+}
+.buttonRemove:hover{
+  background-color: #38102e;
+}

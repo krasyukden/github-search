@@ -1,0 +1,8 @@
+.saveWrapper{
+  margin: 25px;
+  font-weight: 600;
+  font-style: italic;
+}
+.saveWrapper div{
+  padding-top: 10px;
+}
